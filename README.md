@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Huỳnh Minh Trí 👋
+### 🎓 Freshman in Information Security @ UIT (VNU-HCM)
 
-<!--
-**25521902-byte/25521902-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛡️ **Major:** Information Security (An toàn thông tin)
+- 💻 **Tech Stack:** C++, Git, GitHub, Markdown
+- 📚 **Current focus:** Data Structures and Algorithms (DSA)
+- 🎯 **Future Goal:** Security Researcher / InfoSec Expert
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=25521902-byte&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=25521902-byte&layout=compact&theme=tokyonight)
+
+---
+*“Trust, but verify.”*
